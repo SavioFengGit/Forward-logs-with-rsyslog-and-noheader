@@ -1,5 +1,5 @@
 # Forward-logs-with-rsyslog-and-noheader
-Let's see how to forward logs with rsyslog without header
+Let's see how to forward logs with rsyslog and no header
 
 ## Introduction of rsyslog
 Rsyslog is an open-source utility used in UNIX and Unix-like computer systems to forward log messages over an IP network. In other words, rsyslog is a fast and flexible system for log processing. Initially born as a standard log daemon, it has evolved into a versatile tool capable of accepting input from various sources, transforming them, and sending the results to different destinations. This includes advanced features like filtering and support for TCP and UDP protocols for log message transport.
