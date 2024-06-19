@@ -1,4 +1,4 @@
-# Forward-logs-with-rsyslog-without-header
+# Forward-logs-with-rsyslog-and-noheader
 Let's see how to forward logs with rsyslog without header
 
 ## Introduction of rsyslog
