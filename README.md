@@ -20,5 +20,5 @@ In the /etc/rsyslog.d folder, insert the rsyslog.conf file that you find on this
 
 <br><br>
 
-#Author
+# Author
 <b>Xiao Li Savio Feng</b>
