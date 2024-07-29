@@ -9,15 +9,17 @@ Rsyslog is an open-source utility used in UNIX and Unix-like computer systems to
 
 ## Install rsyslog
 Use the command to install rsyslog:
+```
  - sudo apt-get install rsyslog
-
+```
 ## Set the file rsyslog.config 
 In the /etc/rsyslog.d folder, insert the rsyslog.conf file that you find on this repository
 
 ## Restart rsyslog and check the status
+```
  - sudo systemctl restart rsyslog
  - sudo systemctl status rsyslog
-
+```
 <br><br>
 
 # Author
